@@ -1,5 +1,7 @@
 # LLM-Driven Marketing Campaign Assistant
 
+![image](https://github.com/shaadclt/LLM-Driven-Marketing-Campaign-Assistant/assets/98437584/55d37286-f8c9-4995-9911-fe2a5bf2959e)
+
 ## Overview
 
 This project is a Streamlit-based application that utilizes a language model (LLM - Language Model) to assist in generating marketing content for different age groups. The application allows users to input a product, select a marketing task (e.g., writing sales copy, creating a tweet, or writing a product description), and choose a target audience age group (Kids, Adults, or Senior Citizens).
