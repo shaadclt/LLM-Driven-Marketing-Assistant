@@ -137,11 +137,11 @@ def get_LLM_response(query,age_group,task):
 # Frontend
 
 
-st.set_page_config(page_title="LLM-Driven Marketing Campaign Assistant",
+st.set_page_config(page_title="LLM-Driven Marketing Assistant",
                     page_icon='💼',
                     layout = 'centered',
                     initial_sidebar_state = 'collapsed')
-st.header("💼 LLM-Driven Marketing Campaign Assistant")
+st.header("💼 LLM-Driven Marketing Assistant")
 
 form_input = st.text_input("Enter the product")
 
