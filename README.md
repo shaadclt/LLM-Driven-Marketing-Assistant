@@ -1,4 +1,4 @@
-# LLM-Driven Marketing Campaign Assistant
+# LLM-Driven Marketing Assistant
 
 ![image](https://github.com/shaadclt/LLM-Driven-Marketing-Campaign-Assistant/assets/98437584/55d37286-f8c9-4995-9911-fe2a5bf2959e)
 
@@ -24,13 +24,13 @@ This project is a Streamlit-based application that utilizes a language model (LL
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shaadclt/LLM-Driven-Marketing-Campaign-Assistant.git
+   git clone https://github.com/shaadclt/LLM-Driven-Marketing-Assistant.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd LLM-Driven-Marketing-Campaign-Assistant
+   cd LLM-Driven-Marketing-Assistant
    ```
 
 3. Set up your environment variable:
