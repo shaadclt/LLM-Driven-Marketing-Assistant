@@ -1,6 +1,7 @@
 # LLM-Driven Marketing Assistant
 
-![image](https://github.com/shaadclt/LLM-Driven-Marketing-Campaign-Assistant/assets/98437584/55d37286-f8c9-4995-9911-fe2a5bf2959e)
+![image](https://github.com/shaadclt/LLM-Driven-Marketing-Assistant/assets/98437584/278aa46e-7b03-497c-a1aa-0928136c4718)
+
 
 ## Overview
 
