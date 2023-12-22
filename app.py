@@ -127,9 +127,7 @@ def get_LLM_response(query,age_group,task):
         example_separator="\n"
     )
     
-    print(new_prompt_template.format(template_user_input=query,template_age_group=age_group,template_task=task))
     response=llm(new_prompt_template.format(template_user_input=query,template_age_group=age_group,template_task=task))
-    print(response)
     
     return response
 
